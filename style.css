@@ -246,7 +246,9 @@ body > div > div > ul > li > a{
     width: 95px;
 }
 
-
+.contact-icons a:nth-child(3):hover{
+    opacity: 0.6;
+}
 
 .contact-left{
     width: 50%;

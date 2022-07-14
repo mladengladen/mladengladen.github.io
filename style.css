@@ -121,7 +121,7 @@ body > div > div > ul > li > a{
 }
 
 .aboutme-page{
-    height: 90vh;
+    max-height: 90vh;
 }
 
 .aboutme-page > h1{
@@ -252,6 +252,7 @@ body > div > div > ul > li > a{
 
 .contact-left{
     width: 50%;
+    height: 100%;
 }
 
 .contact-text-left{
@@ -306,6 +307,10 @@ select{
 
 form{
     margin-left: 50px;
+}
+
+label{
+    margin-bottom: 0 !important;
 }
 
 .portfolio-page{

@@ -150,6 +150,11 @@ body > div > div > ul > li > a{
     margin-left: 30px;
 }
 
+.aboutme-text > span{
+    border-bottom: 4px solid #249fee;
+    font-weight: 300;
+}
+
 .right-button {
     height: 43px;
     width: 31px;    
@@ -243,7 +248,7 @@ body > div > div > ul > li > a{
 
 .contact-icons a:nth-child(3){
     height: 80px;
-    width: 95px;
+    width: 80px;
 }
 
 .contact-icons a:nth-child(3):hover{
